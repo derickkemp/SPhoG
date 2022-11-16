@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# SPhoG
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![example workflow](https://github.com/derickkemp/SPhoG/actions/workflows/node.js.yml/badge.svg)
 
 ## Available Scripts
 
