@@ -7,6 +7,6 @@ import About from "./About";
 describe("About Page", () => {
   it("Rendering the About page should contain its elements", () => {
     renderWithRouter(<About />);
-    expect(screen.getByText("Attributions")).toBeInTheDocument();
+    expect(screen.getByText("SPhoG")).toBeInTheDocument();
   });
 });
